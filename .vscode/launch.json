@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Behave current file",
+            "type": "python",
+            "request": "launch",
+            "module": "behave",
+            "console": "integratedTerminal",
+            "env": {
+                "BASE_DIR": "${workspaceFolder}/"
+            },
+            "args": [
+                // "-f",
+                // "allure_behave.formatter:AllureFormatter",
+                // "-o",
+                // "reports/allure",
+                "--tags",
+                //"testing"
+                "regression"
+                //"example"
+                //"-i",
+                //"features/datetime_unittest.feature"
+            ]
+        }
+    ]
+}

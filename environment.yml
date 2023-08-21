@@ -1,0 +1,40 @@
+name: testapp
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h1de35cc_0
+  - ca-certificates=2023.01.10=hecd8cb5_0
+  - flake8=6.0.0=py310hecd8cb5_0
+  - libffi=3.4.4=hecd8cb5_0
+  - mccabe=0.7.0=pyhd3eb1b0_0
+  - ncurses=6.4=hcec6c5f_0
+  - openssl=1.1.1t=hca72f7f_0
+  - pip=23.0.1=py310hecd8cb5_0
+  - pycodestyle=2.10.0=py310hecd8cb5_0
+  - pyflakes=3.0.1=py310hecd8cb5_0
+  - python=3.10.11=h218abb5_2
+  - readline=8.2=hca72f7f_0
+  - setuptools=66.0.0=py310hecd8cb5_0
+  - sqlite=3.41.2=h6c40b1e_0
+  - tk=8.6.12=h5d9f67b_0
+  - tzdata=2023c=h04d1e81_0
+  - wheel=0.38.4=py310hecd8cb5_0
+  - xz=5.4.2=h6c40b1e_0
+  - zlib=1.2.13=h4dc903c_0
+  - pip:
+      - allure-behave==2.13.2
+      - allure-python-commons==2.13.2
+      - attrs==23.1.0
+      - behave==1.2.6
+      - certifi==2023.5.7
+      - charset-normalizer==3.1.0
+      - idna==3.4
+      - parse==1.19.0
+      - parse-type==0.6.0
+      - pluggy==1.0.0
+      - python-dateutil==2.8.2
+      - pytz==2023.3
+      - requests==2.31.0
+      - six==1.16.0
+      - urllib3==2.0.2
+prefix: /Users/lizschley/miniconda3/envs/testapp

@@ -1,0 +1,19 @@
+allure-behave==2.13.2
+allure-python-commons==2.13.2
+attrs==23.1.0
+behave==1.2.6
+certifi==2023.5.7
+charset-normalizer==3.1.0
+flake8 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2ea7g_jb28/croot/flake8_1674581815008/work
+idna==3.4
+mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
+parse==1.19.0
+parse-type==0.6.0
+pluggy==1.0.0
+pycodestyle @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a7riaf725h/croot/pycodestyle_1674267226642/work
+pyflakes @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a87qrne4ps/croot/pyflakes_1674165135821/work
+python-dateutil==2.8.2
+pytz==2023.3
+requests==2.31.0
+six==1.16.0
+urllib3==2.0.2
