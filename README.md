@@ -108,7 +108,7 @@ The services make accessing new endpoints, application or microservices standard
 
 **Note** - more information in the Reports ReadMe: ```reports/reporting_readme.md```
 
-There is built-in support for two types of reporting:
+There is built-in support for two types of reporting: 
 
    1. Allure reports
    2. Json response data that is returned from http requests
